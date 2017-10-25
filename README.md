@@ -26,7 +26,7 @@ Minimum sdk is 15.
 You can resize and position this view according to your needs.
 ## Customization Through XML
     <!--Change paint Color-->
-        app:text_color="#ffffff"
+        app:text_color="#00ffff"
     <!--Change stroke size -->
         app:text_size="10f"
     <!--Change background color-->
